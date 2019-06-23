@@ -1,1 +1,1 @@
-# go-postgresql-docker-practice
+# docker-go-postgres
